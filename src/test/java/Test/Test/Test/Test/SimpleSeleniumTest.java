@@ -14,7 +14,7 @@ public class SimpleSeleniumTest {
     WebDriver driver;
 
     // ⭐ Put your Gemini API key here
-    String API_KEY = "ENTER YOUR API KEY";
+    String API_KEY = "ENTER YOUR API KEY"; //user need to enter API key here
 
     @BeforeClass
     public void setUp() {
